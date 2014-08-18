@@ -3,5 +3,5 @@
     require 'menu.php';
     require 'texto.php';
     require 'widget.php';
-    require 'footer.php';
+    require '../footer.php';
 ?>   

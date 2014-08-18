@@ -13,7 +13,7 @@
 
       Tengo mucho interés en la programación y seguir aprendiendo para ser un profesional en esta área, algunos lenguajes que he usado son Java, Python, C++, Bash y Android.</br></br>
 
-    <center><img src="http://elias.im/img/linux.png"> <img src="http://elias.im/img/windows.png"> <img src="http://elias.im/img/android.png"> <img src="http://elias.im/img/dev.png"> <img src="http://elias.im/img/wifi.png"> </center>
+    <center><img src="./img/linux.png"> <img src="./img/windows.png"> <img src="./img/android.png"> <img src="./img/dev.png"> <img src="./img/wifi.png"> </center>
   	</div>
   </div>
 </div>
